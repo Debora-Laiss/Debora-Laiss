@@ -15,7 +15,8 @@ Bem-vindo ao meu perfil no GitHub! Sou uma desenvolvedora apaixonada por tecnolo
 
 ###
 
-<img src="octocat-1723518909182.png" alt="Meu Octocat" width="200"/>
+<img src="octocat-1723518909182.png" alt="Meu Octocat" width="200"/>    <img src="octocat-1723521024668.png" alt="Meu Octocat" width="200"/>
+
 
 
 ###
