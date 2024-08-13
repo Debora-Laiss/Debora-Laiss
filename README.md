@@ -1,22 +1,3 @@
-<h2 align="left">Hi 👋! My name is Debora !! Welcome to my Github profile </h2>
-
-Bem-vindo ao meu perfil no GitHub! Sou uma desenvolvedora apaixonada por tecnologia e inovação. Adoro resolver problemas complexos com soluções criativas e elegantes. Aqui você encontrará alguns dos projetos em que estou trabalhando e minhas contribuições para a comunidade.
-
-<p align="left"></p>
-
-
-## 🚀 Sobre Mim
-
-- 🌱 Atualmente, estou estudando para ser uma desenvolvedora fullstack.
-- 💼 Estou desenvolvendo algumas API .
-- 💬 Pergunte-me sobre: JavaScript, Node.js, MongoDB, HTML, CSS , Linux , Aws , Mysql, Python.
-- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/d%C3%A9bora-la%C3%ADs-506226229/) 
-
-
-###
-
-<img src="octocat-1723518909182.png" alt="Meu Octocat" width="200"/>    <img src="octocat-1723521024668.png" alt="Meu Octocat" width="200"/>      <img src="octocat-1723521331175.png" alt="Meu Octocat" width="200"/>
-
  <h2 align="left">Hi 👋! My name is Debora !! Welcome to my Github profile </h2>
 
 Bem-vindo ao meu perfil no GitHub! Sou uma desenvolvedora apaixonada por tecnologia e inovação. Adoro resolver problemas complexos com soluções criativas e elegantes. Aqui você encontrará alguns dos projetos em que estou trabalhando e minhas contribuições para a comunidade.
