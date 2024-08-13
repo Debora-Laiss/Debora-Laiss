@@ -48,10 +48,9 @@ Bem-vindo ao meu perfil no GitHub! Sou uma desenvolvedora apaixonada por tecnolo
 ## 📈 Estatísticas do GitHub
 <div>
 <a href="https://github.com/Debora-Laiss">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?Debora-Laiss&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?Debora-Laiss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debora-Laiss&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Debora-Laiss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
 ---
 
 Estou sempre aberta a novas oportunidades de colaboração e aprendizado. Se você tiver um projeto interessante ou apenas quiser bater um papo sobre tecnologia, sinta-se à vontade para entrar em contato!
