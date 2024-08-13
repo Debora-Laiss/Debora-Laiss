@@ -1,14 +1,26 @@
 <h2 align="left">Hi 👋! My name is Debora !! Welcome to my Github profile </h2>
 
+Bem-vindo ao meu perfil no GitHub! Sou uma desenvolvedora apaixonada por tecnologia e inovação. Adoro resolver problemas complexos com soluções criativas e elegantes. Aqui você encontrará alguns dos projetos em que estou trabalhando e minhas contribuições para a comunidade.
 
 <p align="left"></p>
 
-###
-![Meu Octocat](octocat-1723518909182.png)
+
+## 🚀 Sobre Mim
+
+- 🌱 Atualmente, estou estudando para ser uma desenvolvedora fullstack.
+- 💼 Estou desenvolvendo algumas API .
+- 💬 Pergunte-me sobre: JavaScript, Node.js, MongoDB, HTML, CSS , Linux , Aws , Mysql, Python.
+- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/d%C3%A9bora-la%C3%ADs-506226229/) 
+
 
 ###
 
-<img src="https://raw.githubusercontent.com/Debora-Laiss /Debora-Laiss /output/snake.svg" alt="Snake animation" />
+<img src="octocat-1723518909182.png" alt="Meu Octocat" width="200"/>
+
+
+###
+
+![Snake animation](https://github.com/Debora-Laiss/Debora-Laiss/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
@@ -35,5 +47,14 @@
 </div>
 
 ###
+## 📈 Estatísticas do GitHub
+<div>
+<a href="https://github.com/Debora-Laiss">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
-![...](octocat-1723518964404.png)
+---
+
+Estou sempre aberta a novas oportunidades de colaboração e aprendizado. Se você tiver um projeto interessante ou apenas quiser bater um papo sobre tecnologia, sinta-se à vontade para entrar em contato!
+
