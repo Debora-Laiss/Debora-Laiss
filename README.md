@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Input%20text&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=header&textBg=false&fontColor=255%20%20148,%2061%20"/>
 
 <h1>
     <span>Hi 👋! My name is Debora !! Welcome to my Github profile</span>
@@ -60,5 +60,7 @@ Bem-vindo ao meu perfil no GitHub! Sou uma desenvolvedora apaixonada por tecnolo
 Estou sempre aberta a novas oportunidades de colaboração e aprendizado. Se você tiver um projeto interessante ou apenas quiser bater um papo sobre tecnologia, sinta-se à vontade para entrar em contato!
 
 ###
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Input%20text&section=footer"/>
 ###
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&textBg=false&fontColor=255,%20148,%2061"/>
+
