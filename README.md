@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=header&textBg=false&fontColor=255%20%20148,%2061%20"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=header&textBg=false&fontColor=%20rgb(255,%20148,%2061)"/>
 
 <h1>
     <span>Hi 👋! My name is Debora !! Welcome to my Github profile</span>
